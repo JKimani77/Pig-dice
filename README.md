@@ -18,6 +18,8 @@ Each turn, a player repeatedly rolls a die until either a 1 is rolled or the pla
 
 ~The first player to score 100 or more points wins.
 
+Here's a link to my webpage https://jkimani77.github.io/pig-dice/
+
 #Languages Used
 
 The project includes; 1.HTML 2.Css 3.Javascript
